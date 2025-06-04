@@ -1,0 +1,6 @@
+---
+description: Nastavitve -> Oprema
+---
+
+# Oprema
+
