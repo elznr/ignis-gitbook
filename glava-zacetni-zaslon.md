@@ -1,7 +1,6 @@
 # GLAVA: Začetni zaslon
 
-Po uspešni prijavi ste vstopili na začetni zaslon. Iz njega dostopate do funkcij IGNIS\
-Volunteer.\
+Po uspešni prijavi ste vstopili na začetni zaslon. Iz njega dostopate do funkcij IGNIS Volunteer.\
 Do začetnega zaslona lahko vedno dostopate tudi s klikom na gumb:
 
 **Kaj lahko vidim in uporabljam na začetnem zaslonu?**&#x20;
