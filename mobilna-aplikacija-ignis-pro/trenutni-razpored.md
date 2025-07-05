@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Trenutni razpored
 
 Pregled zaposlenih na vozilih in na pozicijah trenutno službujoče izmene.

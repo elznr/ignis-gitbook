@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Statistika
 
 Pregled statistike. Zaenkrat samo "Število intervencij po izmenah, glede na obdobje".

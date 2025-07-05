@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # IGNIS Pro: Namen aplikacije
 
 Namen aplikacije je optimalna uporaba sistema IGNIS na mobilnih napravah. Cilj je, da bi bili vsi moduli, ki so na voljo v spletni verziji IGNIS, na voljo tudi na mobilni aplikaciji IGNIS Pro. Nadgradnje potekajo po prioriteti.

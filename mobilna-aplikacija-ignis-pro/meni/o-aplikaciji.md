@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # O aplikaciji
 
 Tukaj lahko vidite različico aplikacije IGNIS Pro, ki jo imate trenutno naloženo na mobilno napravo.
