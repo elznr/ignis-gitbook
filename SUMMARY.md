@@ -328,7 +328,7 @@
 
 ## MOBILNA APLIKACIJA: VOLUNTEER
 
-* [Namestitev in dovoljenja](mobilna-aplikacija-volunteer/namestitev-in-dovoljenja.md)
+* [Android: Namestitev in dovoljenja](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja.md)
 * [Prijava](mobilna-aplikacija-volunteer/prijava.md)
 * [Prva stran](mobilna-aplikacija-volunteer/prva-stran.md)
 * [Zemljevid](mobilna-aplikacija-volunteer/zemljevid.md)
