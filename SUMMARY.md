@@ -329,7 +329,8 @@
 ## MOBILNA APLIKACIJA: VOLUNTEER
 
 * [\*IGNIS BRIDGE - SMS](mobilna-aplikacija-volunteer/ignis-bridge-sms.md)
-* [Android: Namestitev in dovoljenja](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja.md)
+* [Android: Namestitev in dovoljenja](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/README.md)
+  * [Huawei (Xiaomi, Oppo, Vivo,...) - zagon aplikacije](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/huawei-xiaomi-oppo-vivo-...-zagon-aplikacije.md)
 * [Prijava](mobilna-aplikacija-volunteer/prijava.md)
 * [Prva stran](mobilna-aplikacija-volunteer/prva-stran.md)
 * [Zemljevid](mobilna-aplikacija-volunteer/zemljevid.md)
