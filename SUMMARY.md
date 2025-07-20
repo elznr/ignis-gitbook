@@ -271,24 +271,6 @@
 * [Preliminarno alarmiranje](mobilna-aplikacija-ignis-pro/preliminarno-alarmiranje.md)
 * [Vpoklic](mobilna-aplikacija-ignis-pro/vpoklic.md)
 
-## Mobilna aplikacija: Volunteer - Vehicle
-
-* [IGNIS Volunteer - Vehicle: Namen aplikacije](mobilna-aplikacija-volunteer-vehicle/ignis-volunteer-vehicle-namen-aplikacije.md)
-* [Status](mobilna-aplikacija-volunteer-vehicle/status.md)
-* [Aktivne intervencije](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/README.md)
-  * [Pogovor](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/pogovor.md)
-  * [Požarni načrti](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/pozarni-nacrti.md)
-  * [Navigicija](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/navigicija.md)
-  * [Digitalni IPS obrazec](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/digitalni-ips-obrazec.md)
-* [Arhiv intervencij](mobilna-aplikacija-volunteer-vehicle/arhiv-intervencij.md)
-* [Meni](mobilna-aplikacija-volunteer-vehicle/meni/README.md)
-  * [Požarni načrti](mobilna-aplikacija-volunteer-vehicle/meni/pozarni-nacrti.md)
-  * [Požarne straže](mobilna-aplikacija-volunteer-vehicle/meni/pozarne-straze.md)
-  * [Privzeto vozilo](mobilna-aplikacija-volunteer-vehicle/meni/privzeto-vozilo.md)
-  * [Dovoljenja](mobilna-aplikacija-volunteer-vehicle/meni/dovoljenja.md)
-  * [O aplikaciji](mobilna-aplikacija-volunteer-vehicle/meni/o-aplikaciji.md)
-* [Nastavitve/dovoljenja](mobilna-aplikacija-volunteer-vehicle/nastavitve-dovoljenja.md)
-
 ## IGNIS Volunteer
 
 * [Kaj je IGNIS Volunteer](ignis-volunteer/kaj-je-ignis-volunteer.md)
@@ -326,8 +308,27 @@
 * [ZEMLJEVID](zemljevid.md)
 * [GASILSKE TROFEJE](gasilske-trofeje.md)
 
+## Mobilna aplikacija: Volunteer - Vehicle
+
+* [IGNIS Volunteer - Vehicle: Namen aplikacije](mobilna-aplikacija-volunteer-vehicle/ignis-volunteer-vehicle-namen-aplikacije.md)
+* [Status](mobilna-aplikacija-volunteer-vehicle/status.md)
+* [Aktivne intervencije](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/README.md)
+  * [Pogovor](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/pogovor.md)
+  * [Požarni načrti](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/pozarni-nacrti.md)
+  * [Navigicija](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/navigicija.md)
+  * [Digitalni IPS obrazec](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/digitalni-ips-obrazec.md)
+* [Arhiv intervencij](mobilna-aplikacija-volunteer-vehicle/arhiv-intervencij.md)
+* [Meni](mobilna-aplikacija-volunteer-vehicle/meni/README.md)
+  * [Požarni načrti](mobilna-aplikacija-volunteer-vehicle/meni/pozarni-nacrti.md)
+  * [Požarne straže](mobilna-aplikacija-volunteer-vehicle/meni/pozarne-straze.md)
+  * [Privzeto vozilo](mobilna-aplikacija-volunteer-vehicle/meni/privzeto-vozilo.md)
+  * [Dovoljenja](mobilna-aplikacija-volunteer-vehicle/meni/dovoljenja.md)
+  * [O aplikaciji](mobilna-aplikacija-volunteer-vehicle/meni/o-aplikaciji.md)
+* [Nastavitve/dovoljenja](mobilna-aplikacija-volunteer-vehicle/nastavitve-dovoljenja.md)
+
 ## MOBILNA APLIKACIJA: VOLUNTEER
 
+* [\*IGNIS BRIDGE - SMS](mobilna-aplikacija-volunteer/ignis-bridge-sms.md)
 * [Android: Namestitev in dovoljenja](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja.md)
 * [Prijava](mobilna-aplikacija-volunteer/prijava.md)
 * [Prva stran](mobilna-aplikacija-volunteer/prva-stran.md)
