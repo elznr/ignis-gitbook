@@ -6,7 +6,7 @@ Ob aktivaciji, GE prejme podatke o intervenciji, na katero je napotena. S klikom
 Vsi podatki bodo avtomatsko poslani tudi v ReCO sistem WebPLK, ter SPIN.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
