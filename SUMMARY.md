@@ -336,10 +336,6 @@
 
 ## MOBILNA APLIKACIJA: VOLUNTEER
 
-* [\*IGNIS BRIDGE - SMS](mobilna-aplikacija-volunteer/ignis-bridge-sms.md)
-* [Android: Namestitev in dovoljenja](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/README.md)
-  * [Huawei (Xiaomi, Oppo, Vivo,...) - zagon aplikacije](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/huawei-xiaomi-oppo-vivo-...-zagon-aplikacije.md)
-  * [Nastavitve: Huawei naprave](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/nastavitve-huawei-naprave.md)
 * [Prijava](mobilna-aplikacija-volunteer/prijava.md)
 * [Prva stran](mobilna-aplikacija-volunteer/prva-stran.md)
 * [Zemljevid](mobilna-aplikacija-volunteer/zemljevid.md)
@@ -361,3 +357,7 @@
     * [Prijavi napako](mobilna-aplikacija-volunteer/meni/nastavitve/prijavi-napako.md)
     * [Jezik aplikacije](mobilna-aplikacija-volunteer/meni/nastavitve/jezik-aplikacije.md)
     * [O aplikaciji](mobilna-aplikacija-volunteer/meni/nastavitve/o-aplikaciji.md)
+* [Android: Namestitev in dovoljenja](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/README.md)
+  * [Huawei (Xiaomi, Oppo, Vivo,...) - zagon aplikacije](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/huawei-xiaomi-oppo-vivo-...-zagon-aplikacije.md)
+  * [Nastavitve: Huawei naprave](mobilna-aplikacija-volunteer/android-namestitev-in-dovoljenja/nastavitve-huawei-naprave.md)
+* [\*IGNIS BRIDGE - SMS](mobilna-aplikacija-volunteer/ignis-bridge-sms.md)
