@@ -1,8 +1,4 @@
----
-description: Poplave, potresi, žled, plazovi...
----
-
-# Dogodek večjega obsega
+# DOGODEK VEČJEGA OBSEGA
 
 V primeru, da se zgodi dogodek, kjer je potrebno posredovati na več lokacijah v krajšem časovnem obdobju (na primer poplave), aktiviramo dogodek večjega obsega. Osebe, ki so za to določene, so o začetku obveščene preko elektronske pošte.
 
@@ -24,7 +20,7 @@ Ko se poveča število klicev in s tem dogodkov na katerih je potrebno posredova
 
 EPV - štab po sprejemu intervencije, le to obdela. Skupaj s poveljstvom na dogodek pošljejo prosto prostovoljno gasilsko društvo, preko pozivnikov, sms sporočil ali po radijski postaji.
 
-![](<../.gitbook/assets/image (80).png>)
+<figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
 Če se kasneje izkaže, da pri intervenciji, ki je v EPV, prostovoljna struktura potrebuje pomoč poklicnih gasilcev, se intervencijo preko "Arhiv intervencij EPV -> Pošlji v centralo" pošlje v centralo, kjer dispečer nato doda vozilo iz enote in ostale podatke. Enako v obratnem primeru, če je intervencija v centrali in se izkaže, da lahko intervencijo obdela EPV brez poklicne enote "Arhiv intervencij -> Pošlji v EPV".
 
@@ -37,9 +33,3 @@ V primeru, da je na intervenciji prisotna poklicna enota, mora intervencija biti
 Ko je dogodek večjega obsega zaključen (ni več novih intervencij), se dogodek večjega obsega zaključi z gumbom "Zaključi dogodek večjega obsega". Osebe, ki so za to določene, so o zaključku obveščene preko elektronske pošte.
 
 ![](<../.gitbook/assets/image (69).png>)
-
-Sektorizacija lokacije
-
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
