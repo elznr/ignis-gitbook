@@ -8,4 +8,4 @@ Ignis bridge preneseš na prvi strani Ignis Volunteer. Po prenosu je potrebno do
 2. Desno zgoraj pritisni na gumb (⋮) - dovoli omejene nastavitve - potrdi identiteto
 3. Dovoljenja - SMS - Dovoli
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

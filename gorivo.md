@@ -1,3 +1,7 @@
+---
+description: Vpis nakupa goriva.
+---
+
 # GORIVO
 
 

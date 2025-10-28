@@ -283,6 +283,7 @@
 
 * [Kaj je IGNIS Volunteer](ignis-volunteer/kaj-je-ignis-volunteer.md)
 * [PRIJAVA](ignis-volunteer/prijava.md)
+* [STATISTIKA](ignis-volunteer/statistika.md)
 
 ***
 
@@ -296,7 +297,7 @@
 * [DOGODKI V SLOVENIJI](dogodki-v-sloveniji.md)
 * [MOJ PROFIL](moj-profil.md)
 * [INTERVENCIJE](intervencije.md)
-* [LETNO POROČILO](letno-porocilo.md)
+* [SPLOŠNO POROČILO](splosno-porocilo.md)
 * [AKTIVNOSTI](aktivnosti.md)
 * [USPOSABLJANJA](usposabljanja-1/README.md)
   * [Arhiv usposabljanj](usposabljanja-1/arhiv-usposabljanj.md)
@@ -309,11 +310,19 @@
   * [Tehnični pregledi](vozila-1/tehnicni-pregledi.md)
   * [Servisi](vozila-1/servisi.md)
 * [GORIVO](gorivo.md)
+* [OPREMA](oprema-1/README.md)
+  * [Dodeljena oprema](oprema-1/dodeljena-oprema.md)
+  * [Pregled po članih](oprema-1/pregled-po-clanih.md)
+  * [Pregled po lokacijah](oprema-1/pregled-po-lokacijah.md)
+  * [Pregled po opremi](oprema-1/pregled-po-opremi.md)
+  * [Pregled po vozilih](oprema-1/pregled-po-vozilih.md)
+  * [Inventura](oprema-1/inventura.md)
 * [POMEMBNE ŠTEVILKE](pomembne-stevilke.md)
 * [SKUPINE ZA AKTIVACIJO](skupine-za-aktivacijo.md)
 * [SKUPINE ZA OBVEŠČANJE](skupine-za-obvescanje.md)
 * [MONITOR](monitor.md)
 * [ZEMLJEVID](zemljevid.md)
+* [DOKUMENTI](dokumenti-1.md)
 * [GASILSKE TROFEJE](gasilske-trofeje.md)
 
 ## Mobilna aplikacija: Volunteer - Vehicle
