@@ -6,7 +6,7 @@ Ob aktivaciji, GE prejme podatke o intervenciji, na katero je napotena. S klikom
 Vsi podatki bodo avtomatsko poslani tudi v ReCO sistem WebPLK, ter SPIN.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,12 +20,12 @@ Na vrhu zaslona imamo štiri zavihke in sicer intervencija, pogovor, požarni na
 2. GE preko aplikacije vpiše s koliko gasilci so izvozili, ter s katerimi vozili.
 3. Vodja po opravljenem delu na lokaciji, napiše opis intervencije, kar se avtomatsko prenese v IGNIS in nato naprej v SPIN. Tako lahko vodja ob dogodku večjega obsega sproti piše, kaj se je dogajalo na določeni lokaciji in se s tem ne bi pozabil bistvenih informacij.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 V aplikaciji lahko enota sproži SOS s klikom na KONTAKT V SILI. Sistem opozori centralo/epv/poveljstvo/štab o dogodku, tako se lahko takoj osredotočijo na enoto, ki je v težavah.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

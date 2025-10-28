@@ -283,7 +283,6 @@
 
 * [Kaj je IGNIS Volunteer](ignis-volunteer/kaj-je-ignis-volunteer.md)
 * [PRIJAVA](ignis-volunteer/prijava.md)
-* [STATISTIKA](ignis-volunteer/statistika.md)
 
 ***
 
@@ -323,7 +322,14 @@
 * [MONITOR](monitor.md)
 * [ZEMLJEVID](zemljevid.md)
 * [DOKUMENTI](dokumenti-1.md)
+* [STATISTIKA](statistika-1.md)
 * [GASILSKE TROFEJE](gasilske-trofeje.md)
+* [NASTAVITVE](nastavitve-1/README.md)
+  * [Splošne nastavitve](nastavitve-1/splosne-nastavitve.md)
+  * [Intervencije](nastavitve-1/intervencije.md)
+  * [Oprema](nastavitve-1/oprema.md)
+  * [Dokumenti](nastavitve-1/dokumenti.md)
+  * [Klepet](nastavitve-1/klepet.md)
 
 ## Mobilna aplikacija: Volunteer - Vehicle
 

@@ -4,4 +4,4 @@ Tukaj dostopate do arhiva usposabljanj. Ob kliku, se vam odpre seznam vseh trenu
 
 <figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
