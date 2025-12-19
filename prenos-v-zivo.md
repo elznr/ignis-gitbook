@@ -26,8 +26,7 @@ Vnesete povezavo **rtmp://drone.ignis112.si/ljubljana/live\*.**
 
 Ko se požene prenos, levo zgoraj kliknete modro ikono, kjer izklopite prenos zvoka (Turn On Audio) in nastavite Adjust Bit Rate na 20% (993.0 Kbps). Nato kliknete CANCEL. Za prekinitev prenosa slike, kliknete STOP LIVE STREAMING.
 
-IGNIS dispečerja avtomatsko opozori, da je drone (ali prenos iz telefona) aktiven. S klikom na zeleni gumb, se odpre stran, kjer je možen ogled slike v živo, ter pregled po arhivu posnetkov.\
-
+IGNIS dispečerja avtomatsko opozori, da je drone (ali prenos iz telefona) aktiven. S klikom na zeleni gumb, se odpre stran, kjer je možen ogled slike v živo, ter pregled po arhivu posnetkov.<br>
 
 ![](https://mail.google.com/mail/u/0?ui=2\&ik=af2e40d83a\&attid=0.2\&permmsgid=msg-a:r-6874887937166569924\&th=179f5e176c470d49\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ990FERa47moGvuiwJolGMnvXshqoafBwI_Tc_Lq7HGPOOtCnU3zGfe-Xuq9HbnzJ2sXoRFcnlysv_k-CJAdPHKxzoCElX5yRa2PDRlfEMyXEgc7q-OgywdygA\&disp=emb\&realattid=ii_kb7wvv087)
 
