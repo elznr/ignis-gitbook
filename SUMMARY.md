@@ -330,7 +330,7 @@
   * [Oprema](nastavitve-1/oprema.md)
   * [Dokumenti](nastavitve-1/dokumenti.md)
   * [Klepet](nastavitve-1/klepet.md)
-* [Raspberry PI (monitor garaža)](raspberry-pi-monitor-garaza.md)
+* [Raspberry PI (monitor)](raspberry-pi-monitor.md)
 
 ## Mobilna aplikacija: Volunteer - Vehicle
 
