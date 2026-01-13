@@ -16,6 +16,10 @@ Na vrhu zaslona imamo štiri zavihke in sicer intervencija, pogovor, požarni na
 
 ## Zavihek Intervencija
 
+{% hint style="warning" %}
+Intervencijo povežete s SPIN dogodkom s klikom na gumb SpinID. Na seznamu s klikom izberete pravilno intervencijo, ki se poveže s SPIN dogodkom. Če je dogodek pravilno povezan, se gumb obarva zeleno.&#x20;
+{% endhint %}
+
 1. GE preko aplikacije enostavno označi čase za izvoz, prihod, odhod in povratek, tako pri klasičnih intervencijah, kot pri dogodkih večjega obsega, kot so poplave, žled itd. Časi se avtomatsko prenesejo v sistem IGNIS, iz sistema IGNIS pa naprej v sistem SPIN. Tako imamo povsod pravilne in sinhronizirane čase.
 2. GE preko aplikacije vpiše s koliko gasilci so izvozili, ter s katerimi vozili.
 3. Vodja po opravljenem delu na lokaciji, napiše opis intervencije, kar se avtomatsko prenese v IGNIS in nato naprej v SPIN. Tako lahko vodja ob dogodku večjega obsega sproti piše, kaj se je dogajalo na določeni lokaciji in se s tem ne bi pozabil bistvenih informacij.
@@ -23,7 +27,7 @@ Na vrhu zaslona imamo štiri zavihke in sicer intervencija, pogovor, požarni na
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-V aplikaciji lahko enota sproži SOS s klikom na KONTAKT V SILI. Sistem opozori centralo/epv/poveljstvo/štab o dogodku, tako se lahko takoj osredotočijo na enoto, ki je v težavah.
+V aplikaciji lahko enota sproži SOS s klikom na SOS. Sistem opozori centralo/epv/poveljstvo/štab o dogodku, tako se lahko takoj osredotočijo na enoto, ki je v težavah.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

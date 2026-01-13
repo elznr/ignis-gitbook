@@ -341,6 +341,7 @@
   * [Požarni načrti](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/pozarni-nacrti.md)
   * [Navigicija](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/navigicija.md)
   * [Digitalni IPS obrazec](mobilna-aplikacija-volunteer-vehicle/aktivne-intervencije/digitalni-ips-obrazec.md)
+* [Zemljevid](mobilna-aplikacija-volunteer-vehicle/zemljevid.md)
 * [Arhiv intervencij](mobilna-aplikacija-volunteer-vehicle/arhiv-intervencij.md)
 * [Meni](mobilna-aplikacija-volunteer-vehicle/meni/README.md)
   * [Požarni načrti](mobilna-aplikacija-volunteer-vehicle/meni/pozarni-nacrti.md)
