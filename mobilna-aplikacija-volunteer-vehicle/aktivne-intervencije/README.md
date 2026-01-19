@@ -4,11 +4,11 @@ Ob aktivaciji, GE prejme podatke o intervenciji, na katero je napotena. S klikom
 
 {% hint style="info" %}
 Vsi podatki bodo avtomatsko poslani tudi v ReCO sistem WebPLK, ter SPIN.
+
+
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot_20260117_180938.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Na vrhu zaslona imamo štiri zavihke in sicer intervencija, pogovor, požarni načrti in navigiraj.
@@ -17,8 +17,14 @@ Na vrhu zaslona imamo štiri zavihke in sicer intervencija, pogovor, požarni na
 ## Zavihek Intervencija
 
 {% hint style="warning" %}
-Intervencijo povežete s SPIN dogodkom s klikom na gumb SpinID. Na seznamu s klikom izberete pravilno intervencijo, ki se poveže s SPIN dogodkom. Če je dogodek pravilno povezan, se gumb obarva zeleno.&#x20;
+Intervencijo povežete s SPIN dogodkom s klikom na gumb SpinID. Na seznamu s klikom izberete pravilno intervencijo, ki se poveže s SPIN dogodkom. Če je dogodek pravilno povezan, se gumb obarva zeleno. ,
+
+
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot_20260117_180957.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot_20260117_181029.png" alt="" width="375"><figcaption></figcaption></figure>
 
 1. GE preko aplikacije enostavno označi čase za izvoz, prihod, odhod in povratek, tako pri klasičnih intervencijah, kot pri dogodkih večjega obsega, kot so poplave, žled itd. Časi se avtomatsko prenesejo v sistem IGNIS, iz sistema IGNIS pa naprej v sistem SPIN. Tako imamo povsod pravilne in sinhronizirane čase.
 2. GE preko aplikacije vpiše s koliko gasilci so izvozili, ter s katerimi vozili.
